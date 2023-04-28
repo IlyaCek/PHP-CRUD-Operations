@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/B00139696_ASSIGNMENT.iml" filepath="$PROJECT_DIR$/.idea/B00139696_ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PHP-Login-master_Start/.idea/PHP-Login-master.iml" filepath="$PROJECT_DIR$/../PHP-Login-master_Start/.idea/PHP-Login-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PHPDBCONN/.idea/PHPDBCONN.iml" filepath="$PROJECT_DIR$/../PHPDBCONN/.idea/PHPDBCONN.iml" />
+    </modules>
+  </component>
+</project>
